@@ -24,7 +24,7 @@ Tools Used
 Postman (API request testing)
 Browser Developer Tools (header and response inspection)
 API documentation review
-Methodology
+
 
 The API was analyzed using a structured security review approach:
 
